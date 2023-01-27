@@ -1,0 +1,110 @@
+﻿id,nama_pelanggan,jenis_kelamin,umur,profesi,tipe_residen,nilai_belanja
+343,Budi Anggara,Pria,58,Pengusaha,Sector,9497927
+252,Shirley Ratuwati,Wanita,14,Pelajar,Cluster,2722700
+242,Agus Cahyono,Pria,48,Pekerja,Cluster,5286429
+252,Antonius Winarta,Pria,53,Pekerja,Cluster,5204498
+23462,"Ibu Sri Wahyuni, IR",Wanita,41,Pengusaha,Cluster,10615206
+236,Rosalina Kurnia,Wanita,24,Pekerja,Cluster,5215541
+2367,"Cahyono, Agus",Pria,64,Pengusaha,Sector,9837260
+2347,Danang Santosa,Pria,52,Pekerja,Cluster,5223569
+2347,Elisabeth Suryadinata,Wanita,29,Pekerja,Sector,5993218
+347,Mario Setiawan,Pria,33,Pekerja,Cluster,5257448
+347,Maria Suryawan,Wanita,50,Pekerja,Sector,5987367
+437,Erliana Widjaja,Wanita,49,Pekerja,Sector,5941914
+347,Cahaya Putri,Wanita,64,Pengusaha,Cluster,9333168
+23,Mario Setiawan,Pria,60,Pengusaha,Cluster,9471615
+72,Shirley Ratuwati,Wanita,20,Pengusaha,Cluster,10365668
+37,Bambang Rudi,Pria,35,Pekerja,Cluster,5262521
+34,Yuni Sari,Wanita,32,Ibu Rumah Tangga,Cluster,5677762
+3458,Nelly Halim,Wanita,63,Ibu Rumah Tangga,Cluster,5340690
+458,Mega Pranoto,Wanita,32,Pengusaha,Cluster,10884508
+458,Irene Novianto,Wanita,16,Pelajar,Sector,2896845
+45,Lestari Fabianto,Wanita,38,Pengusaha,Cluster,9222070
+845,Novita Purba,Wanita,52,Pekerja,Cluster,5298157
+854,Denny Amiruddin,Pria,34,Pekerja,Cluster,5239290
+45,Putri Ginting,Wanita,39,Pengusaha,Cluster,10259572
+8345,Julia Setiawan,Wanita,29,Pengusaha,Sector,10721998
+34,Christine Winarto,Wanita,55,Pekerja,Cluster,5269392
+34,Grace Mulyati,Wanita,35,Pengusaha,Cluster,9114159
+73,Adeline Huang,Wanita,40,Ibu Rumah Tangga,Cluster,6631680
+46,Tia Hartanti,Wanita,56,Pekerja,Cluster,5271845
+346,Rosita Saragih,Wanita,46,Ibu Rumah Tangga,Sector,5020976
+58,Eviana Handry,Wanita,19,Mahasiswa,Cluster,3042773
+745,Chintya Winarni,Wanita,47,Pengusaha,Sector,10663179
+45,Cecilia Kusnadi,Wanita,19,Mahasiswa,Cluster,3047926
+845,Deasy Arisandi,Wanita,21,Pengusaha,Sector,9759822
+465,Ida Ayu,Wanita,39,Pekerja,Sector,5962575
+458,Ni Made Suasti,Wanita,30,Pengusaha,Cluster,9678994
+43,Felicia Tandiono,Wanita,25,Pekerja,Sector,5972787
+43,Agatha Salim,Wanita,46,Pengusaha,Sector,10477127
+47,Gina Hidayat,Wanita,20,Pekerja,Cluster,5257775
+34,Irene Darmawan,Wanita,14,Pelajar,Sector,2861855
+7345,Shinta Aritonang,Wanita,24,Ibu Rumah Tangga,Cluster,6820976
+458,Yuliana Wati,Wanita,26,Pengusaha,Cluster,9880607
+45,Yenna Sumadi,Wanita,31,Pekerja,Cluster,5268410
+845,Anna,Wanita,18,Pengusaha,Cluster,9339737
+734,Rismawati Juni,Wanita,22,Pekerja,Cluster,5211041
+85,Elfira Surya,Wanita,25,Pengusaha,Sector,10099807
+3485,Mira Kurnia,Wanita,55,Ibu Rumah Tangga,Cluster,6130724
+8534,Maria Hutagalung,Wanita,45,Pengusaha,Sector,10390732
+854,Josephine Wahab,Wanita,33,Ibu Rumah Tangga,Sector,4992585
+845,Lianna Nugraha,Wanita,55,Pengusaha,Sector,10569316
+347,Fahlian Veronica,Pria,58,Pengusaha,Sector,9497927
+734,Adrian Sherina,Wanita,14,Pelajar,Cluster,2722700
+7,Yusuf Pratama,Pria,48,Pekerja,Cluster,5286429
+3845,Dicky Restiandari,Pria,53,Pekerja,Cluster,5204498
+845,Surya Devi,Wanita,41,Pengusaha,Cluster,10615206
+485,Aufa Syaraswati,Wanita,24,Pekerja,Cluster,5215541
+485,Richeal Desiana,Pria,64,Pengusaha,Sector,9837260
+73,Ario Narantoto,Pria,52,Pekerja,Cluster,5223569
+48,Dito arya Putra,Wanita,29,Pekerja,Sector,5993218
+4585,Reza Alfarizi,Pria,33,Pekerja,Cluster,5257448
+4845845845,Raden mohammad,Wanita,50,Pekerja,Sector,5987367
+458,Mirza Lukiano,Wanita,49,Pekerja,Sector,5941914
+5,Ryan Dimas ,Wanita,64,Pengusaha,Cluster,9333168
+8584585,Ahmad Arif,Pria,60,Pengusaha,Cluster,9471615
+48459,Dzaky luki,Wanita,20,Pengusaha,Cluster,10365668
+4965,Asep supriatna,Pria,35,Pekerja,Cluster,5262521
+965,Deden cecepi,Wanita,32,Ibu Rumah Tangga,Cluster,5677762
+5340690,Juno Hasni,Wanita,63,Ibu Rumah Tangga,Cluster,5340690
+46,Ferhat Halim,Wanita,32,Pengusaha,Cluster,10884508
+323,Fikri ramadhan,Wanita,16,Pelajar,Sector,2896845
+652352,Tika watiti,Wanita,38,Pengusaha,Cluster,9222070
+3,Rifky dusli,Wanita,52,Pekerja,Cluster,5298157
+523,Firli Ramadhan,Pria,34,Pekerja,Cluster,5239290
+623463,Farrel riskianto,Wanita,39,Pengusaha,Cluster,10259572
+4673,Kukuh pudjo,Wanita,29,Pengusaha,Sector,10721998
+437,Firas setiawan,Wanita,55,Pekerja,Cluster,5269392
+7,Sultan Ramadhan,Wanita,35,Pengusaha,Cluster,9114159
+37345,Roy staria,Wanita,40,Ibu Rumah Tangga,Cluster,6631680
+587,Abai ramadhan,Wanita,56,Pekerja,Cluster,5271845
+485,Irfan ramadhan,Wanita,46,Ibu Rumah Tangga,Sector,5020976
+8456,Muhammad Atqo,Wanita,19,Mahasiswa,Cluster,3042773
+8465,Mustafid rido,Wanita,47,Pengusaha,Sector,10663179
+485,Hafid nawi,Wanita,19,Mahasiswa,Cluster,3047926
+485,Andre Taulany,Wanita,21,Pengusaha,Sector,9759822
+8785,Sule,Wanita,39,Pekerja,Sector,5962575
+453,Nicholas adhitama,Wanita,30,Pengusaha,Cluster,9678994
+834585,Idhzar ramadhan,Wanita,25,Pekerja,Sector,5972787
+4.85446E+13,Doni rudinatin,Wanita,46,Pengusaha,Sector,10477127
+6234,Garin Triashafira,Wanita,20,Pekerja,Cluster,5257775
+634,Revo Azhari,Wanita,14,Pelajar,Sector,2861855
+4737534,Yuda Indra,Wanita,24,Ibu Rumah Tangga,Cluster,6820976
+475,Decy cahyadi,Wanita,26,Pengusaha,Cluster,9880607
+485,Dedy mahendra,Wanita,31,Pekerja,Cluster,5268410
+845,Usop muriadi,Wanita,18,Pengusaha,Cluster,9339737
+845,Rusman hasnadi,Wanita,22,Pekerja,Cluster,5211041
+45,Bony almany,Wanita,25,Pengusaha,Sector,10099807
+4753,Adlitio edo,Wanita,55,Ibu Rumah Tangga,Cluster,6130724
+74,Alfredo halim,Wanita,45,Pengusaha,Sector,10390732
+84,Dedy miswarto,Wanita,33,Ibu Rumah Tangga,Sector,4992585
+34753,Winda,Wanita,55,Pengusaha,Sector,10569316
+463,Shindy ayu,Wanita,26,Pengusaha,Cluster,9880607
+463,Sylvi,Wanita,31,Pekerja,Cluster,5268410
+46,Fadia milla,Wanita,18,Pengusaha,Cluster,9339737
+475,Fildzah kamila,Wanita,22,Pekerja,Cluster,5211041
+754,Betha afifah,Wanita,25,Pengusaha,Sector,10099807
+8465,Azzahra dhiyaa,Wanita,55,Ibu Rumah Tangga,Cluster,6130724
+47734,Aisyafira dienise,Wanita,45,Pengusaha,Sector,10390732
+734,Adinda putri kirana,Wanita,33,Ibu Rumah Tangga,Sector,4992585
+347,Asti lutfiah,Wanita,55,Pengusaha,Sector,10569316
